@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "tgego",
+  "license": "ISC"
+}
